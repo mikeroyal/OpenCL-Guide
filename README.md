@@ -18,15 +18,15 @@
 
 1. [OpenCL Learning Resources](https://github.com/mikeroyal/OpenCL-Guide#OpenCL-learning-resources)
 
-2. [OpenCL Tools, Libraries and Frameworks](https://github.com/mikeroyal/OpenCL-Guide#OpenCL-tools-and-frameworks)
+2. [OpenCL Tools, Libraries and Frameworks](https://github.com/mikeroyal/OpenCL-Guide#OpenCL-tools-libraries-and-frameworks)
 
 3. [Game Development](https://github.com/mikeroyal/OpenCL-Guide#game-development)
 
 4. [C/C++ Development](https://github.com/mikeroyal/OpenCL-Guide#cc-development)
 
-5. [Vulkan Development](https://github.com/mikeroyal/OpenCL-Guide#)
+5. [Vulkan Development](https://github.com/mikeroyal/OpenCL-Guide#vulkan-development)
 
-6. [Julia Development](https://github.com/mikeroyal/OpenCL-Guide#)
+6. [Julia Development](https://github.com/mikeroyal/OpenCL-Guide#julia-development)
 
 # OpenCL Learning Resources
 [Back to the Top](https://github.com/mikeroyal/OpenCL-Guide#table-of-contents)
